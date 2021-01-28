@@ -1,0 +1,16 @@
+node_modules/
+dist/**
+.project
+unpackage/
+.DS_Store
+wxcomponents/**/*.vue
+wxcomponents/**/*.css
+unpackage/dist/dev/app-plus/__uniappquill.js
+unpackage/dist/dev/app-plus/__uniappscan.js
+unpackage/dist/dev/app-plus/app-config-service.js
+unpackage/dist/dev/app-plus/app-config.js
+unpackage/dist/dev/app-plus/app-service.js
+unpackage/dist/dev/app-plus/app-view.js
+unpackage/dist/dev/app-plus/manifest.json
+unpackage/dist/dev/app-plus/view.css
+unpackage/dist/dev/app-plus/view.umd.min.js

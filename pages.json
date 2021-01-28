@@ -1,0 +1,265 @@
+{
+	"pages": [ 
+		
+		{
+			"path": "pages/index",
+			"style": {
+				"navigationBarTitleText": "鑫汇源",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationBarBackgroundColor":"#49D6FB",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/register",
+			"style": {
+			 "navigationBarTitleText": "注册",
+				"navigationBarBackgroundColor":"#49D6FB",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/register2",
+			"style": {
+				"navigationBarTitleText": "提供采购资质申请"
+			}
+		},
+		
+		{
+			"path": "pages/product",
+			"style": {
+				"navigationBarTitleText": "品类"
+			}
+		},
+		{
+			"path": "pages/product-list",
+			"style": {
+				"navigationBarTitleText": "产品列表"
+			}
+		},
+		{
+			"path": "pages/near-expiration-list",
+			"style": {
+				"navigationBarTitleText": "近效期"
+			}
+		},
+		{
+			"path": "pages/brand-list",
+			"style": {
+				"navigationBarTitleText": "品牌列表"
+			}
+		},
+		{
+			"path": "pages/product-groupbuy-list",
+			"style": {
+				"navigationBarTitleText": "药拼团"
+			}
+		},
+		{
+			"path": "pages/product-detail",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/product-groupbuy-detail",
+			"style": {
+				"navigationBarTitleText": "团购商品详情"
+			}
+		},
+		{
+			"path": "pages/product-info",
+			"style": {
+				"navigationBarTitleText": "商品信息详情"
+			}
+		},
+		{
+			"path": "pages/product-search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/trolley",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/trolley-pay",
+			"style": {
+				"navigationBarTitleText": "结算"
+			}
+		},
+		{
+			"path": "pages/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my-order",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/my-order-detail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/my-discount",
+			"style": {
+				"navigationBarTitleText": "优惠券"
+			}
+		},
+		{
+			"path": "pages/my-address",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
+		},
+		{
+			"path": "pages/my-address-add",
+			"style": {
+				"navigationBarTitleText": "新增收货地址"
+			}
+		},
+		{
+			"path": "pages/my-track",
+			"style": {
+				"navigationBarTitleText": "我的足迹"
+			}
+		},
+		{
+			"path": "pages/my-collect",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+		   "path": "pages/pre-sale",
+		   "style": {
+		    "navigationBarTitleText": "预售"
+		   }
+		  },
+		  {
+		   "path": "pages/ticket-center",
+		   "style": {
+				 "navigationStyle":"custom",
+				 "app-plus":{
+				 			"titleNView":false //去掉app+h5顶部导航
+				 		}
+		    // "navigationBarTitleText": "领券中心"
+		   }
+		  },
+			{
+			 "path": "pages/ticket-center-true",
+			 "style": {
+			  "navigationBarTitleText": "领券成功"
+			 }
+			},	
+			{
+			 "path": "pages/ticket-share",
+			 "style": {
+				"navigationBarTitleText": "分享得优惠券"
+			 }
+			},	
+			{
+			 "path": "pages/integral-center",
+			 "style": {
+				 "navigationStyle":"custom",
+				 "app-plus":{
+				 			"titleNView":false //去掉app+h5顶部导航
+				 		}
+			 //  "navigationBarTitleText": "积分中心",
+				// "navigationBarBackgroundColor":"#1EAAFF",
+				// "navigationBarTextStyle":"white"
+			 }
+			},
+			{
+			 "path": "pages/setting",
+			 "style": {
+			  "navigationBarTitleText": "设置"
+			 }
+			},
+			{
+			 "path": "pages/recharge",
+			 "style": {
+			  "navigationBarTitleText": "充值",
+				"navigationBarBackgroundColor":"#1EAAFF",
+				"navigationBarTextStyle":"white"
+			 }
+			},
+			{
+			 "path": "pages/balance",
+			 "style": {
+			  "navigationBarTitleText": "账户余额",
+				"navigationBarBackgroundColor":"#1EAAFF",
+				"navigationBarTextStyle":"white"
+			 }
+			},
+			{
+			 "path": "pages/transaction-detail",
+			 "style": {
+			  "navigationBarTitleText": "交易细明"
+			 }
+			},{
+			 "path": "pages/signIn",
+			 "style": {
+				 "navigationStyle":"custom",
+				 "app-plus":{
+				 			"titleNView":false //去掉app+h5顶部导航
+				 		}
+			 //  "navigationBarTitleText": "每日签到",	
+				// "navigationBarBackgroundColor":"#20A9FE",
+				// "navigationBarTextStyle":"white",
+				// "navigationStyle":"font-weight: 600;font-size: 38rpx;"
+			}
+			},
+			{
+			 "path": "pages/commission",
+			 "style": {
+			  "navigationBarTitleText": "佣金",
+				"navigationBarBackgroundColor":"#1EAAFF",
+				"navigationBarTextStyle":"white"
+			 }
+			},
+			{
+			 "path": "pages/commission-flow",
+			 "style": {
+			  "navigationBarTitleText": "佣金流水"
+			 }
+			},
+			{
+			 "path": "pages/withdraw",
+			 "style": {
+			  "navigationBarTitleText": "提现"
+			 }
+			},
+			{
+			 "path": "pages/share",
+			 "style": {
+			  "navigationBarTitleText": "分享",
+				"navigationBarBackgroundColor":"#20A9FE",
+				"navigationBarTextStyle":"white"
+			 }
+			}
+     
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "鑫汇源",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#ffffff"
+	}
+}
